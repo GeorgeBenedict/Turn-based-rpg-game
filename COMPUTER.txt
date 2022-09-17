@@ -1,0 +1,2 @@
+2020-08-29 02:30:09.588553 		 Player2(COM)		Computer 1(Wizard)		Computer 2(Tanker)		Computer 3(Warrior)	GameID(099132)
+2022-08-19 18:47:54.482606 		 Player2(COM)		Computer 1(Warrior)		Computer 2(Warrior)		Computer 3(Warrior)	GameID(313362)

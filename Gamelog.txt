@@ -1,0 +1,88 @@
+ID:(099132)	name(Warrior)	attack		Computer 1(Wizard)	attack = 14	defense = 2
+ID:(099132)	name(Warrior)	Health: 50/50	lvl = 1		exp = 14		status:  None
+ID:(099132)	Computer 1(Wizard)	Health: 28/40	lvl = 1		exp = 2		status:  None
+ID:(099132)	name(Tanker)	attack		Computer 2(Tanker)	attack = 9	defense = 5
+ID:(099132)	name(Tanker)	Health: 60/60	lvl = 1		exp = 9		status:  None
+ID:(099132)	Computer 2(Tanker)	Health: 56/60	lvl = 1		exp = 5		status:  None
+ID:(099132)	name(Wizard)	attack		Computer 3(Warrior)	attack = 5	defense = 3
+ID:(099132)	name(Wizard)	Health: 40/40	lvl = 1		exp = 5		status:  None
+ID:(099132)	Computer 3(Warrior)	Health: 48/50	lvl = 1		exp = 3		status:  None
+ID:(099132)	TURN:2	Type: Single	Jonathan	name(Warrior)	Health: 50/50	lvl: 1	exp: 14	Status:  None	FreezeTIME: 0	PoisonDMG: 0	name(Tanker)	Health: 60/60	lvl: 1	exp: 9	Status:  None	FreezeTIME: 0	PoisonDMG: 0	name(Wizard)	Health: 40/40	lvl: 1	exp: 5	Status:  None	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Wizard)	Health: 28/40	lvl: 1	exp: 2	Status:  None	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Tanker)	Health: 56/60	lvl: 1	exp: 5	Status:  None	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 48/50	lvl: 1	exp: 3	Status:  None	FreezeTIME: 0	PoisonDMG: 0
+ID:(099132)	Computer 1(Wizard)	attack		name(Warrior)	attack = 5	defense = 3
+ID:(099132)	Computer 1(Wizard)	Health: 28/40	lvl = 1		exp = 7		status:  None
+ID:(099132)	name(Warrior)	Health: 48/50	lvl = 1		exp = 17		status:  None
+ID:(099132)	Computer 2(Tanker)	attack		name(Wizard)	attack = 8	defense = 2
+ID:(099132)	Computer 2(Tanker)	Health: 56/60	lvl = 1		exp = 13		status:  None
+ID:(099132)	name(Wizard)	Health: 34/40	lvl = 1		exp = 7		status:  None
+ID:(099132)	Computer 3(Warrior)	attack		name(Warrior)	attack = 16	defense = 3
+ID:(099132)	Computer 3(Warrior)	Health: 48/50	lvl = 1		exp = 19		status:  None
+ID:(099132)	name(Warrior)	Health: 35/50	lvl = 1		exp = 20		status:  None
+ID:(099132)	TURN:3	Type: Single	Jonathan	name(Warrior)	Health: 35/50	lvl: 1	exp: 20	FreezeTIME: 0	PoisonDMG: 0	name(Tanker)	Health: 60/60	lvl: 1	exp: 9	FreezeTIME: 0	PoisonDMG: 0	name(Wizard)	Health: 34/40	lvl: 1	exp: 7	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Wizard)	Health: 28/40	lvl: 1	exp: 7	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Tanker)	Health: 56/60	lvl: 1	exp: 13	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 48/50	lvl: 1	exp: 19	FreezeTIME: 0	PoisonDMG: 0
+ID:(099132)	name(Warrior)	attack		Computer 2(Tanker)	attack = 15	defense = 5
+ID:(099132)	name(Warrior)	Health: 35/60	lvl = 2		exp = 5		status:  None
+ID:(099132)	Computer 2(Tanker)	Health: 46/60	lvl = 1		exp = 5		status:  None
+ID:(099132)	name(Tanker)	attack		Computer 1(Wizard)	attack = 11	defense = 2
+ID:(099132)	name(Tanker)	Health: 60/60	lvl = 1		exp = 20		status:  None
+ID:(099132)	Computer 1(Wizard)	Health: 19/40	lvl = 1		exp = 9		status:  None
+ID:(099132)	name(Wizard)	Cast:FREEZE	o		Computer 2(Tanker)
+ID:(099132)	TURN:4	Type: Single	Jonathan	name(Warrior)	Health: 35/60	lvl: 2	exp: 5	FreezeTIME: 0	PoisonDMG: 0	name(Tanker)	Health: 60/60	lvl: 1	exp: 20	FreezeTIME: 0	PoisonDMG: 0	name(Wizard)	Health: 34/40	lvl: 1	exp: 12	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Wizard)	Health: 19/40	lvl: 1	exp: 9	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Tanker)	Health: 46/60	lvl: 1	exp: 5	FreezeTIME: 6	PoisonDMG: 0	Computer 3(Warrior)	Health: 48/50	lvl: 1	exp: 19	FreezeTIME: 0	PoisonDMG: 0
+ID:(099132)	Computer 1(Wizard)	attack		name(Wizard)	attack = 8	defense = 2
+ID:(099132)	Computer 1(Wizard)	Health: 19/40	lvl = 1		exp = 17		status: None
+ID:(099132)	name(Wizard)	Health: 28/40	lvl = 1		exp = 14		status: None
+ID:(099132)	Computer 3(Warrior)	attack		name(Wizard)	attack = 12	defense = 2
+ID:(099132)	Computer 3(Warrior)	Health: 48/60	lvl = 2		exp = 1		status: None
+ID:(099132)	name(Wizard)	Health: 18/40	lvl = 1		exp = 16		status: None
+ID:(099132)	TURN:5	Type: Single	Jonathan	name(Warrior)	Health: 35/60	lvl: 2	exp: 5	FreezeTIME: 0	PoisonDMG: 0	name(Tanker)	Health: 60/60	lvl: 1	exp: 20	FreezeTIME: 0	PoisonDMG: 0	name(Wizard)	Health: 18/40	lvl: 1	exp: 16	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Wizard)	Health: 19/40	lvl: 1	exp: 17	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Tanker)	Health: 46/60	lvl: 1	exp: 0	FreezeTIME: 6	PoisonDMG: 0	Computer 3(Warrior)	Health: 48/60	lvl: 2	exp: 1	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	a(Warrior)	attack		Computer 1(Warrior)	attack = 11	defense = 3
+ID:(313362)	a(Warrior)	Health: 50/50	lvl = 1		exp = 11		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: 42/50	lvl = 1		exp = 3		status:  None
+ID:(313362)	b(Tanker)	attack		Computer 1(Warrior)	attack = 9	defense = 3
+ID:(313362)	b(Tanker)	Health: 60/60	lvl = 1		exp = 9		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: 36/50	lvl = 1		exp = 6		status:  None
+ID:(313362)	c(Warrior)	attack		Computer 2(Warrior)	attack = 15	defense = 3
+ID:(313362)	c(Warrior)	Health: 50/50	lvl = 1		exp = 15		status:  None
+ID:(313362)	Computer 2(Warrior)	Health: 38/50	lvl = 1		exp = 3		status:  None
+ID:(313362)	TURN:2	Type: Single	gio	a(Warrior)	Health: 50/50	lvl: 1	exp: 11	FreezeTIME: 0	PoisonDMG: 0	b(Tanker)	Health: 60/60	lvl: 1	exp: 9	FreezeTIME: 0	PoisonDMG: 0	c(Warrior)	Health: 50/50	lvl: 1	exp: 15	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Warrior)	Health: 36/50	lvl: 1	exp: 6	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Warrior)	Health: 38/50	lvl: 1	exp: 3	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 50/50	lvl: 1	exp: 0	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	Computer 1(Warrior)	attack		c(Warrior)	attack = 13	defense = 3
+ID:(313362)	Computer 1(Warrior)	Health: 36/50	lvl = 1		exp = 19		status:  None
+ID:(313362)	c(Warrior)	Health: 40/50	lvl = 1		exp = 18		status:  None
+ID:(313362)	Computer 2(Warrior)	attack		a(Warrior)	attack = 11	defense = 3
+ID:(313362)	Computer 2(Warrior)	Health: 38/50	lvl = 1		exp = 14		status:  None
+ID:(313362)	a(Warrior)	Health: 42/50	lvl = 1		exp = 14		status:  None
+ID:(313362)	Computer 3(Warrior)	attack		c(Warrior)	attack = 11	defense = 3
+ID:(313362)	Computer 3(Warrior)	Health: 50/50	lvl = 1		exp = 11		status:  None
+ID:(313362)	c(Warrior)	Health: 32/50	lvl = 1		exp = 21		status:  None
+ID:(313362)	TURN:3	Type: Single	gio	a(Warrior)	Health: 42/50	lvl: 1	exp: 14	FreezeTIME: 0	PoisonDMG: 0	b(Tanker)	Health: 60/60	lvl: 1	exp: 9	FreezeTIME: 0	PoisonDMG: 0	c(Warrior)	Health: 32/50	lvl: 1	exp: 21	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Warrior)	Health: 36/50	lvl: 1	exp: 19	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Warrior)	Health: 38/50	lvl: 1	exp: 14	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 50/50	lvl: 1	exp: 11	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	a(Warrior)	attack		Computer 1(Warrior)	attack = 12	defense = 3
+ID:(313362)	a(Warrior)	Health: 42/50	lvl = 1		exp = 26		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: 27/50	lvl = 1		exp = 22		status:  None
+ID:(313362)	b(Tanker)	attack		Computer 1(Warrior)	attack = 14	defense = 3
+ID:(313362)	b(Tanker)	Health: 60/60	lvl = 1		exp = 23		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: 16/50	lvl = 1		exp = 25		status:  None
+ID:(313362)	c(Warrior)	attack		Computer 1(Warrior)	attack = 13	defense = 3
+ID:(313362)	c(Warrior)	Health: 32/60	lvl = 2		exp = 4		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: 6/50	lvl = 1		exp = 28		status:  None
+ID:(313362)	TURN:4	Type: Single	gio	a(Warrior)	Health: 42/50	lvl: 1	exp: 26	FreezeTIME: 0	PoisonDMG: 0	b(Tanker)	Health: 60/60	lvl: 1	exp: 23	FreezeTIME: 0	PoisonDMG: 0	c(Warrior)	Health: 32/60	lvl: 2	exp: 4	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Warrior)	Health: 6/50	lvl: 1	exp: 28	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Warrior)	Health: 38/50	lvl: 1	exp: 14	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 50/50	lvl: 1	exp: 11	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	Computer 1(Warrior)	attack		c(Warrior)	attack = 18	defense = 4
+ID:(313362)	Computer 1(Warrior)	Health: 6/60	lvl = 2		exp = 16		status:  None
+ID:(313362)	c(Warrior)	Health: 18/60	lvl = 2		exp = 8		status:  None
+ID:(313362)	Computer 2(Warrior)	attack		b(Tanker)	attack = 14	defense = 5
+ID:(313362)	Computer 2(Warrior)	Health: 38/50	lvl = 1		exp = 28		status:  None
+ID:(313362)	b(Tanker)	Health: 51/60	lvl = 1		exp = 28		status:  None
+ID:(313362)	Computer 3(Warrior)	attack		b(Tanker)	attack = 13	defense = 6
+ID:(313362)	Computer 3(Warrior)	Health: 50/50	lvl = 1		exp = 24		status:  None
+ID:(313362)	b(Tanker)	Health: 43/70	lvl = 2		exp = 3		status:  None
+ID:(313362)	TURN:5	Type: Single	gio	a(Warrior)	Health: 42/50	lvl: 1	exp: 26	FreezeTIME: 0	PoisonDMG: 0	b(Tanker)	Health: 43/70	lvl: 2	exp: 3	FreezeTIME: 0	PoisonDMG: 0	c(Warrior)	Health: 18/60	lvl: 2	exp: 8	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Warrior)	Health: 6/60	lvl: 2	exp: 16	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Warrior)	Health: 38/50	lvl: 1	exp: 28	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 50/50	lvl: 1	exp: 24	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	a(Warrior)	attack		Computer 1(Warrior)	attack = 16	defense = 4
+ID:(313362)	a(Warrior)	Health: 42/60	lvl = 2		exp = 12		status:  None
+ID:(313362)	Computer 1(Warrior)	Health: -6/60	lvl = 2		exp = 20		status:  None
+ID:(313362)	b(Tanker)	attack		Computer 2(Warrior)	attack = 13	defense = 4
+ID:(313362)	b(Tanker)	Health: 43/70	lvl = 2		exp = 16		status:  None
+ID:(313362)	Computer 2(Warrior)	Health: 28/60	lvl = 2		exp = 1		status:  None
+ID:(313362)	c(Warrior)	attack		Computer 2(Warrior)	attack = 14	defense = 4
+ID:(313362)	c(Warrior)	Health: 18/60	lvl = 2		exp = 22		status:  None
+ID:(313362)	Computer 2(Warrior)	Health: 18/60	lvl = 2		exp = 5		status:  None
+ID:(313362)	TURN:6	Type: Single	gio	a(Warrior)	Health: 42/60	lvl: 2	exp: 12	FreezeTIME: 0	PoisonDMG: 0	b(Tanker)	Health: 43/70	lvl: 2	exp: 16	FreezeTIME: 0	PoisonDMG: 0	c(Warrior)	Health: 18/60	lvl: 2	exp: 22	FreezeTIME: 0	PoisonDMG: 0		COMPUTER	Computer 1(Warrior)	Health: 0/60	lvl: 2	exp: 20	FreezeTIME: 0	PoisonDMG: 0	Computer 2(Warrior)	Health: 18/60	lvl: 2	exp: 5	FreezeTIME: 0	PoisonDMG: 0	Computer 3(Warrior)	Health: 50/50	lvl: 1	exp: 24	FreezeTIME: 0	PoisonDMG: 0
+ID:(313362)	Computer 2(Warrior)	attack		a(Warrior)	attack = 15	defense = 4
+ID:(313362)	Computer 2(Warrior)	Health: 18/60	lvl = 2		exp = 20		status:  None
+ID:(313362)	a(Warrior)	Health: 31/60	lvl = 2		exp = 16		status:  None
